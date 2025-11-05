@@ -1,6 +1,8 @@
 # Course-Projects-at-Yale
 BIS 537 Statistical Methods for Causal Inference: A Simulation Study Comparing Several Causal Inference Methods: Causality between Smoking and Heart Attack  
 
+BIS 567 Bayesian Statistics: A Bayesian Approach for New Haven Crime Rate Prediction  
+
 BIS 568 : Applied AI in Healthcare: Automated Diagnosis of Cardiovascular Diseases Using Multi-Phase Cardiac MRI and Convolutional Neural Networks  
 
 BIS 623 Advanced Regression Models: Descriptive analysis and Statistical Comparison for birth weight dataset  
