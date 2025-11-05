@@ -5,7 +5,7 @@ BIS 567 Bayesian Statistics: A Bayesian Approach for New Haven Crime Rate Predic
 
 BIS 568 : Applied AI in Healthcare: Automated Diagnosis of Cardiovascular Diseases Using Multi-Phase Cardiac MRI and Convolutional Neural Networks  
 
-BIS 623 Advanced Regression Models: Descriptive analysis and Statistical Comparison for birth weight dataset  
+BIS 623 Advanced Regression Models: Descriptive analysis and Regression Model Comparison for birth weight dataset  
 
 CPSC 452 Deep Learning & Applications: Evaluaton of encoder systems for semantic recommendation system for biomedical literature  
 
